@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-display font-bold text-foreground leading-tight">
-              Empower.
+              ForgeLeap.
               <br />
               <span className="text-primary">Deliver.</span>
               <br />

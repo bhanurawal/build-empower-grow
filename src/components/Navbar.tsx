@@ -23,9 +23,14 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-2">
-            <span className="text-2xl font-display font-bold text-primary">
-              Empower
-            </span>
+            <div className="flex flex-col">
+              <span className="text-2xl font-display font-bold text-primary">
+                ForgeLeap
+              </span>
+              <span className="text-xs text-muted-foreground">
+                Transformation that propels organizations to future.
+              </span>
+            </div>
           </Link>
 
           {/* Desktop Navigation */}
