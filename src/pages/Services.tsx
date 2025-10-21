@@ -39,13 +39,13 @@ const services = [
   },
   {
     icon: Rocket,
-    title: "Project Lifecycle Support",
-    description: "End-to-end guidance using your tools, processes, and methodologies to ensure sustainable success.",
+    title: "Sustainable Transformation",
+    description: "A comprehensive approach to organizational change that creates lasting impact and continuous growth.",
     benefits: [
-      "Initiation and planning with your frameworks",
-      "Execution support using your systems",
-      "Quality assurance and testing guidance",
-      "Post-delivery review and continuous improvement",
+      "Not a one-off project methodology, but a repeatable growth engine",
+      "Builds long-term resilience by making the organization self-sufficient",
+      "Positions the company as a pattern innovator and thought leader in its sector",
+      "Creates systems that evolve and improve beyond our engagement",
     ],
   },
   {

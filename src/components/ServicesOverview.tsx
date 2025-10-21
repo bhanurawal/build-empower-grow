@@ -21,8 +21,8 @@ const services = [
   },
   {
     icon: Rocket,
-    title: "Project Lifecycle Support",
-    description: "End-to-end guidance using your tools and processes, ensuring sustainable success beyond our engagement.",
+    title: "Sustainable Transformation",
+    description: "Not a one-off project methodology, but a repeatable growth engine that builds long-term resilience and positions your company as a pattern innovator and thought leader.",
   },
 ];
 
