@@ -7,18 +7,18 @@ const caseStudies = [
   {
     company: "Global Financial Services Leader",
     industry: "Banking & Finance",
-    challenge: "A Fortune 500 financial institution needed to migrate 50+ teams from legacy systems to modern cloud infrastructure. Traditional consulting quotes exceeded $20M with 18-month timelines and no capability building.",
+    challenge: "A Fortune 500 financial institution needed CRM transformation with multiple reusable patterns while reducing dependency on external consultants from 80% to 10%. Required strategic architecture mapping and team capability building.",
     approach: [
-      "Embedded coaches in 5 pilot teams",
-      "Developed internal migration playbook collaboratively",
-      "Trained 150+ staff on cloud architecture and DevOps",
-      "Established centers of excellence led by client staff",
+      "P1 Strategise — Mapped architecture to identify reusable patterns",
+      "P2 Embed — Built modules with progressive coaching (80%→30%→10% dependency)",
+      "P3 Codify — Documented and standardized 16 reusable patterns",
+      "P4 Impact — Implemented dashboards and maturity tracking for self-service",
     ],
     results: [
-      "40% faster delivery compared to initial estimates",
-      "Zero external dependency after 6 months",
-      "Client team independently scaled approach to 45 additional teams",
-      "Saved $12M vs. traditional consulting approach",
+      "16 patterns codified with 47 successful reuses across teams",
+      "Team dependency reduced from 80% to 10%",
+      "Self-service dashboards and maturity tracking established",
+      "Sustainable capability building with ongoing pattern innovation",
     ],
     testimonial: {
       quote: "They made themselves obsolete in the best possible way. Our team now runs circles around what we thought was possible.",

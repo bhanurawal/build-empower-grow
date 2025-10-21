@@ -7,8 +7,8 @@ const cases = [
   {
     company: "Global Financial Services",
     industry: "Banking",
-    challenge: "Legacy systems migration affecting 50+ teams",
-    results: ["40% faster delivery", "Zero external dependency", "Team independently scaled to 3 more projects"],
+    challenge: "CRM transformation requiring reusable patterns and reducing external dependency from 80% to 10%",
+    results: ["16 patterns codified with 47 reuses", "Dependency reduced from 80% to 10%", "Self-service dashboards and maturity tracking"],
   },
   {
     company: "Healthcare Provider",
