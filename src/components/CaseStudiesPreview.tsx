@@ -17,10 +17,10 @@ const cases = [
     results: ["100% audit success", "Staff trained in 12 weeks", "Ongoing capability for future initiatives"],
   },
   {
-    company: "Tech Startup",
-    industry: "Technology",
-    challenge: "Rapid scaling without compromising quality",
-    results: ["3x team productivity", "Established delivery frameworks", "Continuous improvement culture"],
+    company: "Industrial Sector Leader",
+    industry: "Environmental & Industrial",
+    challenge: "Agentic AI transformation for GHG emissions reporting and regulatory compliance",
+    results: ["50% of workforce assigned to new business development", "30% reduction in data quality issues, 70% on-time delivery", "50% reduction in audit findings", "70% accuracy vs. manual reports"],
   },
 ];
 
