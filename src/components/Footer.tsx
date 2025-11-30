@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-display font-bold mb-2">ForgeLeap</h3>
+            <h3 className="text-2xl font-display font-bold mb-2">Triverge</h3>
             <p className="text-sm text-primary-foreground/60 mb-4">
               Transformation that propels organizations to future.
             </p>
@@ -54,7 +54,7 @@ const Footer = () => {
                 <Linkedin size={24} />
               </a>
               <a
-                href="mailto:hello@forgeleap.com"
+                href="mailto:hello@triverge.com"
                 className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
               >
                 <Mail size={24} />
@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-primary-foreground/60 text-sm">
-          <p>&copy; {new Date().getFullYear()} ForgeLeap. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Triverge. All rights reserved.</p>
         </div>
       </div>
     </footer>

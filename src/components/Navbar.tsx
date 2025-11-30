@@ -25,7 +25,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <div className="flex flex-col">
               <span className="text-2xl font-display font-bold text-primary">
-                ForgeLeap
+                Triverge
               </span>
               <span className="text-xs text-muted-foreground">
                 Transformation that propels organizations to future.
