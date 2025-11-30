@@ -151,8 +151,8 @@ const Contact = () => {
                     <Mail className="text-accent mt-1" size={20} />
                     <div>
                       <p className="font-medium">Email</p>
-                      <a href="mailto:hello@forgeleap.com" className="text-muted-foreground hover:text-primary transition-colors">
-                        hello@forgeleap.com
+                      <a href="mailto:hello@triverge.com" className="text-muted-foreground hover:text-primary transition-colors">
+                        hello@triverge.com
                       </a>
                     </div>
                   </div>
