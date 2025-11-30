@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
-import logo from "@/assets/triverge-logo.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -23,8 +22,15 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border shadow-soft">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
-          <Link to="/" className="flex items-center">
-            <img src={logo} alt="Triverge - Transformation that propels organizations to future" className="h-12 w-auto" />
+          <Link to="/" className="flex items-center space-x-2">
+            <div className="flex flex-col">
+              <span className="text-2xl font-display font-bold text-primary">
+                Triverge
+              </span>
+              <span className="text-xs text-muted-foreground">
+                Transformation that propels organizations to future.
+              </span>
+            </div>
           </Link>
 
           {/* Desktop Navigation */}

@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { Linkedin, Mail } from "lucide-react";
-import logo from "@/assets/triverge-logo.png";
 
 const Footer = () => {
   return (
@@ -8,7 +7,10 @@ const Footer = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <img src={logo} alt="Triverge" className="h-16 w-auto mb-4 brightness-0 invert" />
+            <h3 className="text-2xl font-display font-bold mb-2">Triverge</h3>
+            <p className="text-sm text-primary-foreground/60 mb-4">
+              Transformation that propels organizations to future.
+            </p>
             <p className="text-primary-foreground/80 max-w-md">
               Transforming organizations by empowering teams to deliver exceptional results independently.
             </p>
