@@ -1,0 +1,488 @@
+{
+  "site": {
+    "name": "Triverge",
+    "tagline": "Empower. Deliver. Transform.",
+    "description": "Transforming organizations by empowering teams to deliver exceptional results independently.",
+    "url": "https://triverge.com",
+    "exportDate": "2024-12-23"
+  },
+  "settings": {
+    "logo": {
+      "text": "Triverge",
+      "imageFile": "triverge-logo.png"
+    },
+    "contact": {
+      "email": "hello@triverge.com",
+      "phone": "+1 (234) 567-890",
+      "linkedin": "https://linkedin.com"
+    },
+    "officeHours": {
+      "days": "Monday - Friday",
+      "hours": "9:00 AM - 6:00 PM EST",
+      "responseTime": "24 hours"
+    },
+    "heroStats": [
+      { "value": "100%", "label": "Client Retention" },
+      { "value": "50+", "label": "Teams Empowered" },
+      { "value": "3x", "label": "Faster Delivery" }
+    ]
+  },
+  "navigation": {
+    "primary": [
+      { "label": "Services", "url": "/services" },
+      { "label": "Case Studies", "url": "/case-studies" },
+      { "label": "Philosophy", "url": "/philosophy" },
+      { "label": "Blog", "url": "/blog" },
+      { "label": "Contact", "url": "/contact" }
+    ],
+    "footer": {
+      "quickLinks": [
+        { "label": "Services", "url": "/services" },
+        { "label": "Case Studies", "url": "/case-studies" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Contact", "url": "/contact" }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "title": "Home",
+      "slug": "home",
+      "template": "front-page",
+      "sections": [
+        {
+          "type": "hero",
+          "headline": "Empower. Deliver. Transform.",
+          "subheadline": "We don't just deliver projects—we transform your team's capabilities. Build sustainable success through empowerment, not dependency.",
+          "cta": [
+            { "label": "Book Discovery Call", "url": "/contact", "style": "primary" },
+            { "label": "Our Philosophy", "url": "/philosophy", "style": "outline" }
+          ],
+          "testimonial": {
+            "quote": "They didn't just deliver—they made us capable of delivering ourselves.",
+            "author": "Fortune 500 CIO"
+          },
+          "stats": [
+            { "value": "100%", "label": "Client Retention" },
+            { "value": "50+", "label": "Teams Empowered" },
+            { "value": "3x", "label": "Faster Delivery" }
+          ]
+        },
+        {
+          "type": "services-overview",
+          "headline": "Services That Empower",
+          "subheadline": "We partner with you to build capabilities that last long after we're gone.",
+          "services": [
+            {
+              "icon": "users",
+              "title": "Embedded Delivery Coaching",
+              "description": "Our experts work alongside your team, mentoring them through real project execution while building lasting capabilities."
+            },
+            {
+              "icon": "target",
+              "title": "Staff Upskilling & Enablement",
+              "description": "Comprehensive training programs that transform your workforce into confident, capable project leaders."
+            },
+            {
+              "icon": "shield",
+              "title": "Governance & Compliance",
+              "description": "Mentor your team on best practices for governance, risk management, and regulatory compliance."
+            },
+            {
+              "icon": "rocket",
+              "title": "Sustainable Transformation",
+              "description": "Not a one-off project methodology, but a repeatable growth engine that builds long-term resilience and positions your company as a pattern innovator and thought leader."
+            }
+          ]
+        },
+        {
+          "type": "philosophy-preview",
+          "headline": "Empowerment Over Dependency",
+          "content": "Traditional consulting creates long-term dependencies. We build long-term capabilities. Our approach is fundamentally different: we succeed when you no longer need us.",
+          "process": [
+            { "step": 1, "title": "Assess & Align", "description": "Understand your team's current capabilities and project goals." },
+            { "step": 2, "title": "Embed & Enable", "description": "Work side-by-side with your team, transferring knowledge in real-time." },
+            { "step": 3, "title": "Transition & Transform", "description": "Gradually step back as your team takes full ownership and control." }
+          ]
+        },
+        {
+          "type": "cta",
+          "headline": "Ready to Transform Your Team?",
+          "content": "Let's discuss how we can help you build sustainable capabilities and deliver exceptional results.",
+          "buttons": [
+            { "label": "Schedule Discovery Call", "url": "/contact", "style": "secondary" },
+            { "label": "View Success Stories", "url": "/case-studies", "style": "outline" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Our Philosophy",
+      "slug": "philosophy",
+      "headline": "Our Philosophy",
+      "subheadline": "Why we're fundamentally different from traditional consulting firms.",
+      "content": {
+        "problem": {
+          "title": "The Problem with Traditional Consulting",
+          "paragraphs": [
+            "Traditional consulting firms have a business model problem: their revenue depends on keeping you dependent. They deploy their own teams, use their own methodologies, and maintain control of critical knowledge. When they leave, you're often no better equipped than when they arrived.",
+            "This creates a cycle of dependency where organizations repeatedly hire consultants for similar projects, never building the internal capabilities needed for sustainable success."
+          ]
+        },
+        "comparison": {
+          "traditional": {
+            "title": "Traditional Consulting",
+            "items": [
+              "Deploy external teams",
+              "Use proprietary methodologies",
+              "Maintain knowledge ownership",
+              "Create long-term dependencies",
+              "Optimize for billable hours"
+            ]
+          },
+          "ourApproach": {
+            "title": "Our Approach",
+            "items": [
+              "Enable your existing teams",
+              "Use your tools and processes",
+              "Transfer all knowledge",
+              "Build sustainable capabilities",
+              "Optimize for your independence"
+            ]
+          }
+        },
+        "principles": [
+          {
+            "number": 1,
+            "title": "Empowerment Over Dependency",
+            "description": "We measure success by how quickly you no longer need us. Every engagement is designed to build your team's confidence and capabilities."
+          },
+          {
+            "number": 2,
+            "title": "Knowledge Transfer as Priority One",
+            "description": "We don't hoard knowledge—we systematically transfer it. Every decision, every framework, every lesson learned becomes your organizational asset."
+          },
+          {
+            "number": 3,
+            "title": "Use Your Tools, Your Way",
+            "description": "We adapt to your environment, not the other way around. We work with your tools, your processes, and your culture to ensure sustainable adoption."
+          },
+          {
+            "number": 4,
+            "title": "Teach to Fish",
+            "description": "We don't just deliver projects—we teach your team how to deliver projects. The goal is replicable success, not one-time wins."
+          },
+          {
+            "number": 5,
+            "title": "Long-Term Partnership",
+            "description": "While we optimize for your independence, we remain available as strategic advisors and mentors as you tackle increasingly complex challenges."
+          }
+        ],
+        "result": {
+          "title": "The Result: Sustainable Transformation",
+          "paragraphs": [
+            "When you work with us, you're not just getting a project delivered—you're investing in your organization's long-term capabilities. Your team becomes more confident, more skilled, and more independent with each engagement.",
+            "This approach requires more upfront investment in training and mentorship, but the ROI is exponentially higher. Instead of hiring consultants for every major initiative, you develop internal expertise that compounds over time.",
+            "Our most successful clients haven't needed us for years—and that's exactly how we designed it."
+          ]
+        }
+      },
+      "cta": {
+        "headline": "Ready to Break the Consulting Cycle?",
+        "content": "Let's discuss how we can help you build capabilities that last.",
+        "buttonLabel": "Schedule a Discovery Call",
+        "buttonUrl": "/contact"
+      }
+    },
+    {
+      "title": "Our Services",
+      "slug": "services",
+      "headline": "Our Services",
+      "subheadline": "Comprehensive enablement solutions designed to build lasting capabilities within your organization.",
+      "services": [
+        {
+          "icon": "users",
+          "title": "Embedded Delivery Coaching",
+          "description": "Our experts integrate directly into your team structure, providing hands-on guidance through every phase of project execution.",
+          "benefits": [
+            "Real-time mentoring during active projects",
+            "Knowledge transfer through doing, not just teaching",
+            "Build muscle memory for complex delivery scenarios",
+            "Continuous feedback and adjustment"
+          ]
+        },
+        {
+          "icon": "target",
+          "title": "Staff Upskilling & Enablement",
+          "description": "Comprehensive training programs designed to elevate your team's capabilities across the entire project lifecycle.",
+          "benefits": [
+            "Customized training based on skill gaps",
+            "Hands-on workshops with real project scenarios",
+            "Certification and competency frameworks",
+            "Long-term career development pathways"
+          ]
+        },
+        {
+          "icon": "shield",
+          "title": "Governance & Compliance Mentoring",
+          "description": "Navigate complex regulatory and governance requirements while building internal expertise.",
+          "benefits": [
+            "Risk management frameworks tailored to your context",
+            "Audit preparation and continuous compliance",
+            "Governance best practices without bureaucracy",
+            "Decision-making frameworks for complex scenarios"
+          ]
+        },
+        {
+          "icon": "rocket",
+          "title": "Sustainable Transformation",
+          "description": "A comprehensive approach to organizational change that creates lasting impact and continuous growth.",
+          "benefits": [
+            "Not a one-off project methodology, but a repeatable growth engine",
+            "Builds long-term resilience by making the organization self-sufficient",
+            "Positions the company as a pattern innovator and thought leader in its sector",
+            "Creates systems that evolve and improve beyond our engagement"
+          ]
+        },
+        {
+          "icon": "git-branch",
+          "title": "Agile & DevOps Transformation",
+          "description": "Transform your delivery approach with modern practices that stick.",
+          "benefits": [
+            "Agile adoption tailored to your culture",
+            "DevOps pipeline establishment and optimization",
+            "Continuous integration and deployment practices",
+            "Team autonomy and self-organization"
+          ]
+        },
+        {
+          "icon": "book-open",
+          "title": "Knowledge Management Systems",
+          "description": "Establish robust knowledge capture and sharing systems for long-term organizational learning.",
+          "benefits": [
+            "Documentation frameworks that teams actually use",
+            "Communities of practice establishment",
+            "Lessons learned capture and application",
+            "Internal knowledge sharing platforms"
+          ]
+        }
+      ],
+      "cta": {
+        "headline": "Not Sure Where to Start?",
+        "content": "Every organization is unique. Let's discuss your specific challenges and design a custom enablement program.",
+        "buttonLabel": "Schedule a Discovery Call",
+        "buttonUrl": "/contact"
+      }
+    },
+    {
+      "title": "Contact Us",
+      "slug": "contact",
+      "headline": "Let's Connect",
+      "subheadline": "Ready to transform your team's capabilities? Schedule a discovery call to discuss your goals.",
+      "form": {
+        "title": "Send Us a Message",
+        "fields": [
+          { "name": "name", "label": "Name", "type": "text", "required": true, "placeholder": "John Doe" },
+          { "name": "email", "label": "Email", "type": "email", "required": true, "placeholder": "john@company.com" },
+          { "name": "company", "label": "Company", "type": "text", "required": false, "placeholder": "Acme Corporation" },
+          { "name": "message", "label": "Message", "type": "textarea", "required": true, "placeholder": "Tell us about your project and how we can help..." }
+        ],
+        "submitLabel": "Send Message"
+      },
+      "contactInfo": {
+        "email": "hello@triverge.com",
+        "phone": "+1 (234) 567-890",
+        "linkedin": "https://linkedin.com"
+      },
+      "officeHours": {
+        "days": "Monday - Friday",
+        "hours": "9:00 AM - 6:00 PM EST",
+        "note": "We typically respond within 24 hours during business days."
+      }
+    }
+  ],
+  "blog": {
+    "title": "Insights & Perspectives",
+    "description": "Thought leadership on transformation, enablement, and sustainable delivery excellence.",
+    "categories": [
+      { "name": "Industry Insights", "slug": "industry-insights" },
+      { "name": "Best Practices", "slug": "best-practices" },
+      { "name": "Thought Leadership", "slug": "thought-leadership" },
+      { "name": "Agile Transformation", "slug": "agile-transformation" },
+      { "name": "Strategy", "slug": "strategy" }
+    ],
+    "posts": [
+      {
+        "title": "Why Traditional Consulting is Broken",
+        "slug": "why-traditional-consulting-is-broken",
+        "date": "2025-03-15",
+        "category": "Industry Insights",
+        "readTime": "8 min read",
+        "excerpt": "The consulting industry has a fundamental misalignment: firms profit from keeping clients dependent. Let's explore why this model fails organizations and what alternatives exist.",
+        "content": "Traditional consulting creates a dependency cycle that costs organizations millions while building no internal capabilities. When consultants leave, they take their knowledge with them, leaving organizations no better equipped than when they arrived.\n\nThe Dependency Trap: Most consulting firms have a business model that incentivizes continued engagement rather than client independence. The longer a project runs, the more billable hours generated. This creates a fundamental conflict of interest.\n\nThe Alternative: A new model is emerging where success is measured by how quickly clients become self-sufficient. This approach prioritizes knowledge transfer, capability building, and sustainable practices over extended engagements."
+      },
+      {
+        "title": "Building a Culture of Continuous Improvement",
+        "slug": "building-culture-continuous-improvement",
+        "date": "2025-03-10",
+        "category": "Best Practices",
+        "readTime": "10 min read",
+        "excerpt": "Practical frameworks for establishing sustainable delivery excellence within your organization, including Kaizen principles adapted for modern tech teams.",
+        "content": "Continuous improvement isn't just a manufacturing concept—it's essential for modern delivery organizations. Here's how to embed it in your culture.\n\nThe Foundation: Psychological Safety - Before any improvement framework can work, teams need to feel safe to identify problems without fear of blame.\n\nKaizen for Tech Teams - Daily standup retrospectives, weekly process experiments, monthly capability assessments, quarterly strategic alignment reviews."
+      },
+      {
+        "title": "The ROI of Empowerment",
+        "slug": "roi-of-empowerment",
+        "date": "2025-03-05",
+        "category": "Thought Leadership",
+        "readTime": "12 min read",
+        "excerpt": "Measuring the long-term value of building internal capabilities versus hiring external teams. Real data from Fortune 500 transformations.",
+        "content": "When you invest in empowerment, the returns compound exponentially. Our data from 50+ transformations shows: Year 1: 20% higher initial investment; Year 2: 40% reduction in external spend; Year 3+: 70%+ reduction sustained with improved outcomes."
+      },
+      {
+        "title": "Scaling Agile Without Losing Your Soul",
+        "slug": "scaling-agile-without-losing-soul",
+        "date": "2025-02-28",
+        "category": "Agile Transformation",
+        "readTime": "9 min read",
+        "excerpt": "How fast-growth companies can adopt enterprise practices while maintaining startup agility and culture.",
+        "content": "Scaling doesn't mean bureaucracy. Here's how to grow up without growing old. Principles: Autonomy with Alignment, Minimal Viable Governance, Decentralized Decision-Making, Cultural Guardianship."
+      },
+      {
+        "title": "The Mentor's Handbook",
+        "slug": "mentors-handbook",
+        "date": "2025-02-22",
+        "category": "Best Practices",
+        "readTime": "11 min read",
+        "excerpt": "Essential principles for effective technical mentoring, drawn from thousands of hours coaching delivery teams.",
+        "content": "Great mentors aren't just technical experts—they're empathy experts. Core Principles: Ask Don't Tell, Fail Forward, Context Over Content, Celebrate Progress."
+      },
+      {
+        "title": "When to Build vs. When to Buy",
+        "slug": "build-vs-buy",
+        "date": "2025-02-15",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "excerpt": "A decision framework for technology choices that considers not just cost, but organizational learning and capability building.",
+        "content": "The build vs. buy decision should factor in knowledge transfer and team development. Build when core to differentiation, develops needed skills, or available solutions don't fit. Buy when commodity functionality, speed critical, or maintenance would distract."
+      }
+    ],
+    "newsletter": {
+      "headline": "Stay Updated",
+      "description": "Subscribe to receive our latest insights on organizational transformation and delivery excellence.",
+      "placeholder": "Enter your email",
+      "buttonLabel": "Subscribe"
+    }
+  },
+  "caseStudies": {
+    "title": "Success Stories",
+    "description": "Real transformations from organizations that chose empowerment over dependency.",
+    "industries": [
+      { "name": "Banking & Finance", "slug": "banking-finance" },
+      { "name": "Healthcare", "slug": "healthcare" },
+      { "name": "Environmental & Industrial", "slug": "environmental-industrial" },
+      { "name": "Manufacturing", "slug": "manufacturing" }
+    ],
+    "studies": [
+      {
+        "title": "Global Financial Services Leader",
+        "slug": "global-financial-services",
+        "industry": "Banking & Finance",
+        "challenge": "A Fortune 500 financial institution needed CRM transformation with multiple reusable patterns while reducing dependency on external consultants from 80% to 10%. Required strategic architecture mapping and team capability building.",
+        "approach": [
+          "P1 Strategise — Mapped architecture to identify reusable patterns",
+          "P2 Embed — Built modules with progressive coaching (80%→30%→10% dependency)",
+          "P3 Codify — Documented and standardized 16 reusable patterns",
+          "P4 Impact — Implemented dashboards and maturity tracking for self-service"
+        ],
+        "results": [
+          "16 patterns codified with 47 successful reuses across teams",
+          "Team dependency reduced from 80% to 10%",
+          "Self-service dashboards and maturity tracking established",
+          "Sustainable capability building with ongoing pattern innovation"
+        ],
+        "testimonial": {
+          "quote": "They made themselves obsolete in the best possible way. Our team now runs circles around what we thought was possible.",
+          "author": "Chief Technology Officer"
+        }
+      },
+      {
+        "title": "Regional Healthcare Provider",
+        "slug": "regional-healthcare-provider",
+        "industry": "Healthcare",
+        "challenge": "Complex HIPAA-compliant digital transformation affecting patient care systems. Internal team lacked experience with regulatory requirements and modern delivery practices.",
+        "approach": [
+          "Compliance mentoring alongside technical delivery",
+          "Created tailored governance frameworks",
+          "Trained 80+ clinical and IT staff",
+          "Established ongoing compliance review processes"
+        ],
+        "results": [
+          "100% audit success across all regulatory requirements",
+          "Staff fully trained and confident in 12 weeks",
+          "Ongoing capability for future healthcare IT initiatives",
+          "Patient satisfaction scores increased 35%"
+        ],
+        "testimonial": {
+          "quote": "We didn't just get a system—we got a team that knows how to build and maintain systems at this complexity level.",
+          "author": "Chief Information Officer"
+        }
+      },
+      {
+        "title": "Industrial Sector Leader",
+        "slug": "industrial-sector-leader",
+        "industry": "Environmental & Industrial",
+        "challenge": "Complex environmental reporting requirements for GHG emissions with manual processes causing data quality issues and compliance risks. Need for accurate, timely reporting to satisfy regulatory requirements.",
+        "approach": [
+          "Implemented agentic AI solution for automated emissions tracking",
+          "Trained staff on AI-assisted reporting workflows",
+          "Established data quality frameworks and validation processes",
+          "Created compliance monitoring and continuous improvement systems"
+        ],
+        "results": [
+          "50% of workforce now assigned to new business development areas",
+          "30% reduction in data quality issues and 70% on-time delivery of reports",
+          "High compliance – reduction by 50% in audit findings",
+          "70% accuracy achieved when compared to manual reports"
+        ],
+        "testimonial": {
+          "quote": "The AI transformation freed our team to focus on strategic initiatives while ensuring compliance. We're now industry leaders in environmental reporting.",
+          "author": "Chief Sustainability Officer"
+        }
+      },
+      {
+        "title": "Manufacturing Conglomerate",
+        "slug": "manufacturing-conglomerate",
+        "industry": "Manufacturing",
+        "challenge": "Digital transformation across 12 business units with siloed teams and inconsistent practices. Previous consultants created dependencies that cost millions annually.",
+        "approach": [
+          "Cross-functional enablement program",
+          "Shared services and communities of practice",
+          "Leadership development for internal champions",
+          "Reusable frameworks and templates"
+        ],
+        "results": [
+          "Standardized delivery practices across all business units",
+          "50% reduction in project failure rate",
+          "Internal team now mentors other divisions",
+          "Annual consulting spend reduced by $5M"
+        ],
+        "testimonial": {
+          "quote": "For the first time in decades, we're not dependent on external firms. We're the experts now.",
+          "author": "Chief Operating Officer"
+        }
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Write Your Success Story?",
+      "content": "Let's discuss how we can help transform your organization's capabilities.",
+      "buttonLabel": "Start Your Transformation",
+      "buttonUrl": "/contact"
+    }
+  },
+  "footer": {
+    "tagline": "Transformation that propels organizations to future.",
+    "description": "Transforming organizations by empowering teams to deliver exceptional results independently.",
+    "copyright": "© 2024 Triverge. All rights reserved."
+  }
+}
